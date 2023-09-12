@@ -1,0 +1,65 @@
+body {
+    background-color: LightPink;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+    font-family: verdana;
+    border: 2px solid #000000; /* 2px width, solid style, black color */
+  }
+
+
+  h2 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: verdana;
+  }
+  
+  h3 {
+    color: rgb(0, 0, 0);
+    text-align: left;
+    font-family: verdana;
+  }
+
+  #xlabel {
+    color: rgb(0, 0, 0);
+    text-align: left;
+    font-family: verdana;
+  }
+
+  /* Bellow is buttons */
+
+  #rollButton {
+    background-color: #5537ff; /* Blue background color */
+    color: #fff; /* White text color */
+    font-size: 16px; /* Font size */
+    padding: 10px 20px; /* Padding (top/bottom, left/right) */
+    border: none; /* Remove the default button border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Show a pointer cursor on hover */
+}
+  #rollButton:hover {
+    background-color: #2d16b4 ;
+  }  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  #gameButton {
+    background-color: #5537ff; /* Blue background color */
+    color: #fff; /* White text color */
+    font-size: 24px; /* Font size */
+    padding: 35px 50px; /* Padding (top/bottom, left/right) */
+    border: none; /* Remove the default button border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Show a pointer cursor on hover */
+}
+  #gameButton:hover {
+    background-color: #2d16b4 ;
+  }  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
